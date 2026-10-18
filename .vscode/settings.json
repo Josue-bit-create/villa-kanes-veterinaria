@@ -1,0 +1,12 @@
+{
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.root": "/",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": false,
+  "editor.wordWrap": "on",
+  "files.associations": { ".htaccess": "apacheconf" },
+  "files.exclude": { "**/.DS_Store": true },
+  "cSpell.language": "es,en",
+  "emmet.includeLanguages": { "javascript": "html" }
+}
